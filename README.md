@@ -1,7 +1,5 @@
 This is a Next.js project created with create-next-app.
 
-This is a Next.js project created with create-next-app.
-
 ## Getting Started
 Install dependencies:
  
